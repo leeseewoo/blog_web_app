@@ -9,7 +9,7 @@ class HomeScreen extends StatelessWidget {
   // 1) const  생성자
   HomeScreen({Key? key}) : super(key: key);
 
-  // 2)   주석 추가 
+
 
   @override
   Widget build(BuildContext context) {
